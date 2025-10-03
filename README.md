@@ -25,4 +25,4 @@ Demonstração de UI/UX e boas práticas de código
 
 🚀 Objetivo
 
-Este portfólio foi criado como um espaço para reunir e compartilhar meus projetos, servindo como vitrine profissional e também como registro do meu aprendizado contínuo no desenvolvimento web.
+Este portfólio foi criado como um espaço para reunir e compartilhar meus projetos, e também como registro do meu aprendizado contínuo no desenvolvimento web.
