@@ -3,7 +3,7 @@
 Este é o meu portfólio pessoal, desenvolvido para apresentar meus projetos de desenvolvimento web tanto no front-end quanto no back-end.
 O objetivo é demonstrar minhas habilidades técnicas, criatividade e evolução como desenvolvedor.
 
-✨ Tecnologias utilizadas
+# ✨ Tecnologias utilizadas
 
 HTML5 – estruturação das páginas
 
@@ -13,7 +13,7 @@ JavaScript (ES6+) – interatividade e lógica
 
 Outras ferramentas modernas aplicadas em projetos específicos (React, Node.js, etc.)
 
-📂 O que você encontrará
+# 📂 O que você encontrará
 
 Projetos práticos desenvolvidos em front-end
 
@@ -23,6 +23,6 @@ Estudos, experimentos e desafios de programação
 
 Demonstração de UI/UX e boas práticas de código
 
-🚀 Objetivo
+# 🚀 Objetivo
 
 Este portfólio foi criado como um espaço para reunir e compartilhar meus projetos, e também como registro do meu aprendizado contínuo no desenvolvimento web.
